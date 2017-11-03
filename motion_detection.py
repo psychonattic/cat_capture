@@ -3,7 +3,7 @@
 import picamera
 from subprocess import call #makes it possible to execute bash commqands from the program
 
-PATH = '/home/pi/Desktop/pi_camera/'
+PATH = '/home/pi/Desktop/cat_capture/'
 EXT = '.h264'
 
 
