@@ -1,3 +1,5 @@
 #should ignore all generated video files, as these are for testing
 *.h264
 *.mp4
+#don't commit any ds store files
+**.DS_Store
