@@ -1,0 +1,3 @@
+#should ignore all generated video files, as these are for testing
+*.h264
+*.mp4
